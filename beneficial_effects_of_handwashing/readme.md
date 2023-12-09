@@ -25,7 +25,7 @@ The nurses did not wash hands after working on corpses and would then treat preg
 
 However, the nurses in Clinic 2 worked exclusively in the maternity ward.
 
-There are 2 datafiles -
+Under the data folder there are 2 datafiles -
 1. monthly_deaths.csv ---> This file has the date, the number of births, and the number of deaths
 2. yearly_deaths_by_clinic.csv ---> This file has the date, the number of births, the number of deaths, and the name of the Clinic.
 
