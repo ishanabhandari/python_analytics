@@ -35,7 +35,7 @@ Under the data folder there are 2 datafiles -
 2. Create a Python virtual env
    `python -mvenv venv`
 3. Activate the virtual env
-    `source venv/bin/activate` ---> This an example for MacOS
+    `.\venv\Scripts\activate` ---> This an example for the Windows Operating System
 4. Use pip to install the requirements.txt file
    `pip install -r requirements.txt`
 5. Run the commands in the Jupyter notebook - *handwashing.ipynb*
